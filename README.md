@@ -1,6 +1,6 @@
 # Vprofile
 
-Automating Deployment of java web application and services using vagrant
+Automating deployment of java web application and services using vagrant provisioning.
 
 # Services
 
